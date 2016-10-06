@@ -1,4 +1,4 @@
 # fingerDots
 
-[Click here](https://jaychangs.github.io/fingerDots/) to play around with app  
+[Click here](https://jayychang.github.io/fingerDots/) to play around with app  
 
